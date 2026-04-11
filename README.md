@@ -1,4 +1,4 @@
-# MotorMind AI v1.0
+# MotorMind AI v1.026
 
 **Edge AI-Based Real-Time Motor Health Monitoring and Predictive Fault Detection Using ESP32**
 
