@@ -250,9 +250,23 @@ College of Engineering, Guindy (Anna University)
 
 ---
 
-## 17. Copyright
+## 17. License
 
-© 2026 Yukesh. All rights reserved.
+This project is licensed under the PolyForm Noncommercial License 1.0.0.
+
+You may use, modify, and share this project for non-commercial purposes only.
+
+For licensing inquiries, contact: mathuyukesh@gmail.com
+
+---
+
+## 18. Copyright
+
+PolyForm Noncommercial License 1.0.0
+
+Copyright (c) 2026 Yukesh
+
+All rights reserved.
 
 This project is provided for academic and demonstration purposes only. Unauthorized reproduction, distribution, or modification is not permitted.
 
